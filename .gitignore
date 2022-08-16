@@ -2,3 +2,4 @@
 /.gradle/
 /build/
 fcm.json
+constants.kt
